@@ -6,7 +6,7 @@ We also trained and compared multiple regression models—including **Linear Reg
 
 ---
 
-### 🚗 Key Features
+### Key Features
 
 * In-depth **exploratory data analysis (EDA)** of car price determinants
 * Interactive visualizations of **brand preferences** and **pricing trends**
@@ -15,7 +15,7 @@ We also trained and compared multiple regression models—including **Linear Reg
 
 ---
 
-### 🛠️ Technologies Used
+### Technologies Used
 
 * Python (NumPy, Pandas, Matplotlib, Scikit-learn, XGBoost, CatBoost)
 * Jupyter Notebook for development
@@ -23,7 +23,7 @@ We also trained and compared multiple regression models—including **Linear Reg
 
 ---
 
-### 📦 Deliverables
+### Deliverables
 
 * Clean and preprocessed dataset ready for modeling
 * Best-performing model for predicting car prices
